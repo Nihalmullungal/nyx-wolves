@@ -15,7 +15,7 @@ class TransactionDetails extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              "Transaction",
+              "Transactions",
               style: FontTheme.appBarSubTitle,
             ),
             Text("View All", style: FontTheme.appBarTitle),

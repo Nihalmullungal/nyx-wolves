@@ -20,7 +20,10 @@ class AddButton extends StatelessWidget {
             style: ElevatedButton.styleFrom(
                 shadowColor: Colors.transparent,
                 backgroundColor: Colors.transparent),
-            child: const Text("Save")),
+            child: const Text(
+              "Save",
+              style: TextStyle(color: Colors.white),
+            )),
       ),
     );
   }

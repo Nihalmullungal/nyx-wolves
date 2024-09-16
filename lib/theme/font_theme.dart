@@ -15,8 +15,8 @@ class FontTheme {
   static TextStyle listViewNameStyle = const TextStyle(
       color: Colors.black,
       fontFamily: "roberto",
-      fontSize: 19,
-      fontWeight: FontWeight.w500);
+      fontSize: 20,
+      fontWeight: FontWeight.w700);
   static TextStyle hintStyleBig = const TextStyle(
       color: Color.fromARGB(255, 129, 133, 141),
       fontFamily: "roberto",
